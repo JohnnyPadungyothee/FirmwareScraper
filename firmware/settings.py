@@ -30,7 +30,10 @@ ITEM_PIPELINES = {
     'firmware.pipelines.AsusPipeline': 300,
     'firmware.pipelines.AvmPipeline': 1,
     'firmware.pipelines.LinksysPipeline': 1,
+    
+    'scrapy.pipelines.files.FilesPipeline': 1,
 }
 
 # Enable to run with Selenium. Set to the driver executable path
-SELENIUM_DRIVER_EXECUTABLE_PATH = '/usr/local/bin/geckodriver'
+#SELENIUM_DRIVER_EXECUTABLE_PATH = '/usr/local/bin/geckodriver'
+SELENIUM_DRIVER_EXECUTABLE_PATH = '/usr/bin/chromedriver'
