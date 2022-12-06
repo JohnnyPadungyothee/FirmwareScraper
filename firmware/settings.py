@@ -12,6 +12,9 @@ ROBOTSTXT_OBEY = True
 
 DOWNLOAD_TIMEOUT = 320
 
+#increased size from 1024MB default
+DOWNLOAD_MAXSIZE = 2048000000
+
 LOG_LEVEL = 'DEBUG'
 
 FTP_USER = 'anonymous'
