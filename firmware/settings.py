@@ -10,7 +10,8 @@ FILES_STORE = 'firmware_files/'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
-DOWNLOAD_TIMEOUT = 320
+#increased timeout from 320 to 420
+DOWNLOAD_TIMEOUT = 420
 
 #increased size from 1024MB default to 2GB, in bytes
 DOWNLOAD_MAXSIZE = 2147483648
