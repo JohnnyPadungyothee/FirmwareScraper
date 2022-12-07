@@ -11,7 +11,8 @@ class HewlettPackardSpider(Spider):
     name = 'hp'
 
     def start_requests(self):
-        urls = ['https://support.hp.com/za-en/document/c03933242']
+        urls = ['https://support.hp.com/za-en/document/ish_4025423-4025481-16']
+        #old url: https://support.hp.com/za-en/document/c03933242'
         for url in urls:
             yield Request(url=url, dont_filter=True,
                           meta={'selenium': True, 'dont_redirect': True, 'handle_httpstatus_list': [302]})
