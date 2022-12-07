@@ -12,8 +12,10 @@ ROBOTSTXT_OBEY = True
 
 DOWNLOAD_TIMEOUT = 320
 
-#increased size from 1024MB default, in bytes
-DOWNLOAD_MAXSIZE = 5368709120
+#increased size from 1024MB default to 2GB, in bytes
+DOWNLOAD_MAXSIZE = 2147483648
+#increase size from 32MB default to 1GB, in bytes
+DOWNLOAD_WARNSIZE = 1073741824
 
 LOG_LEVEL = 'DEBUG'
 
