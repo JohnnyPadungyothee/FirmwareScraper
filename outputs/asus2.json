@@ -1,0 +1,5 @@
+[
+{"device_name": ["DSL-AC68VG"], "vendor": ["asus"], "firmware_version": ["5.00.09_build274"], "device_class": ["Router (Modem)"], "release_date": ["2021-08-26"], "file_urls": ["https://dlcdnets.asus.com/pub/ASUS/wireless/DSL-AC68VG/FW_DSL_AC68VG_50009274.zip"], "files": [{"url": "https://dlcdnets.asus.com/pub/ASUS/wireless/DSL-AC68VG/FW_DSL_AC68VG_50009274.zip", "path": "FW_DSL_AC68VG_50009274.zip", "checksum": "548b11000e6f6e700b55ee64cdfe407d", "status": "uptodate"}]}
+][
+{"device_name": ["DSL-AC68VG"], "vendor": ["asus"], "firmware_version": ["5.00.09_build274"], "device_class": ["Router (Modem)"], "release_date": ["2021-08-26"], "file_urls": ["https://dlcdnets.asus.com/pub/ASUS/wireless/DSL-AC68VG/FW_DSL_AC68VG_50009274.zip"], "files": [{"url": "https://dlcdnets.asus.com/pub/ASUS/wireless/DSL-AC68VG/FW_DSL_AC68VG_50009274.zip", "path": "FW_DSL_AC68VG_50009274.zip", "checksum": "548b11000e6f6e700b55ee64cdfe407d", "status": "uptodate"}]}
+]

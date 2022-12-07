@@ -8,7 +8,6 @@ $RECYCLE.BIN/
 *.iml
 *.ipr
 *.iws
-*.json
 *.lnk
 *.log
 *.manifest
