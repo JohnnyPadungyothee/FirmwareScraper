@@ -145,3 +145,4 @@ var/
 venv.bak/
 venv/
 wheels/
+*_firmware_files/
