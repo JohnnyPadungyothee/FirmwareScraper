@@ -146,3 +146,4 @@ venv.bak/
 venv/
 wheels/
 *_firmware_files/
+spider_state

@@ -18,6 +18,11 @@ DOWNLOAD_MAXSIZE = 2147483648
 #increase size from 32MB default to 1GB, in bytes
 DOWNLOAD_WARNSIZE = 1073741824
 
+#halved default values to get clean shutdown for avm_gpl
+#CONCURRENT_ITEMS = 50
+#CONCURRENT_REQUESTS = 8
+#CONCURRENT_REQUESTS_PER_DOMAIN = 4
+
 LOG_LEVEL = 'DEBUG'
 
 FTP_USER = 'anonymous'
